@@ -13,3 +13,7 @@ Create a new enviroment
 
 conda create -p venv python==3.10 -y
 ...
+
+Activate the enviroment
+
+conda activate path
